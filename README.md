@@ -1,6 +1,11 @@
+## Subway Surfer Leaderboard Analysis
 Analyzed and uncovered insights from the Subway Surfers speedrun leaderboards, focusing on various metrics such as the fastest completion times, top-performing players, platform preferences, and demographic trends within the speedrunning community. 
 
 This analysis aims to provide valuable insights into player behavior and trends, helping to understand the dynamics of the Subway Surfers speedrunning community.
 
-Tools Used: MySQL and Power BI.
+## Tools Used: 
+- MySQL
+- Power BI
 
+  
+[Powerpoint]: https://docs.google.com/presentation/d/1XwvooEa2MIlhLwBMD2xinyxk5jiVksXR/edit#slide=id.p1
